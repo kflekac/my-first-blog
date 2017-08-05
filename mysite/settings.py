@@ -25,7 +25,7 @@ SECRET_KEY = '%6+5#a^3$#jfy7up%rj*exn&668l_1we+*+pgcgh$d7d0yyf!r'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', 'http://kflekac.pythonanywhere.com/']
+ALLOWED_HOSTS = ['127.0.0.1', 'kflekac.pythonanywhere.com/']
 
 
 # Application definition
